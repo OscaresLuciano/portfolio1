@@ -1,0 +1,16 @@
+Fonts:
+
+- Montserrat
+
+- Open sans
+
+
+
+Colores hex:
+
+- Barra azul oscuro nav 
+#2C3E50
+
+
+- Background header
+ #18BC9C
